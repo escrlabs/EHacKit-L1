@@ -1,5 +1,7 @@
 # EHacKit-L1
-<center>![Logo](https://github.com/escrlabs/EHacKit-L1/blob/main/EHacKit-L1.png)</center>
+<center>
+  ![Logo](https://github.com/escrlabs/EHacKit-L1/blob/main/EHacKit-L1.png)
+</center>
 ## Project Motive
 
 EHacKit-L1 is a cybersecurity hardware project designed to empower enthusiasts and developers with a versatile kit for hands-on exploration and learning in the field of cybersecurity. The primary goal is to provide a platform that combines various components to build, experiment, and understand different aspects of cybersecurity projects.
